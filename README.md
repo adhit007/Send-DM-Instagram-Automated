@@ -5,7 +5,7 @@ A simple pyhon instagram Send DM Instagram Automated bot
 
 Installing:
 1. Download and install python
-2. Install the `selenuim` package: `pip install selenium` in the console
+2. Install the `selenium` package: `pip install selenium` in the console
 3. Download the chromedriver correspond to your chrome version
 4. Download `direct_bot.py` from here.
 
